@@ -160,7 +160,7 @@ nav{
     position: absolute;
     border-top-left-radius: 50%;
     border-bottom-left-radius: 50%;
-    filter: blur(10px);
+    filter: blur(50px);
 
 
 
