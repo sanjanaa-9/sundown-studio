@@ -480,7 +480,7 @@ nav{
 #page-5{
     height: 60vh;
     width: 100%;
-    padding: 3vw 2vw;
+    padding: 5vw 2vw;
     background-color: #EFEAE3;
 
 }
@@ -501,19 +501,21 @@ nav{
   }
 
   .swiper-slide {
-    text-align: center;
+    /* text-align: center; */
     font-size: 18px;
-    background: #fff;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    padding: 1vw;
+    /* background: #fff; */
+    font-weight: 100;
+    border-left: 1px solid #191818c8;
+
   }
 
   .swiper-slide img {
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
+    /* display: block; */
+    width: 150px;
+    /* padding: 1vw; */
+    height: 150px;
+    /* object-fit: cover; */
   }
 #page-6{
     height: 100vh;
