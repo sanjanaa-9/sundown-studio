@@ -57,7 +57,7 @@ function loaderAnimation() {
     }, 4200)
 }
 page3Animation();
-swiperAnimation()
-menuAnimation()
-loaderAnimation()
+swiperAnimation();
+menuAnimation();
+loaderAnimation();
 
